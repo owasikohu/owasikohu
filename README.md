@@ -1,6 +1,6 @@
 <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
 <p align="left">
-  <a href="https://github.com/yutkat/owasikohu/">
+  <a href="https://github.com/owasikohu/owasikohu/">
     <img src="https://komarev.com/ghpvc/?username=owasikohu" alt="owasikohu" />
   </a>
   <a href="http://twitter.com/owasikohu">
