@@ -1,7 +1,8 @@
 <h1><img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%"></h1>
 
 
-<h2>I am a Japanese 14 years old.</h2>
+I am a Japanese 14 years old.  
+<h2>Things I code with</h2>
 
   
 <p align="left">
