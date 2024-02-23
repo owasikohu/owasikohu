@@ -1,7 +1,10 @@
 <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
+
+
 <p>
   I am a Japanese 14 years old.
 <p>
+
   
 <p align="left">
   <a href="https://github.com/owasikohu/owasikohu/">
