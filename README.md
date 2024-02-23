@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=owasikohu" alt="owasikohu" />
   </a>
   <a href="http://twitter.com/owasikohu">
-    <img height="20" src="https://img.shields.io/twitter/follow/@owasikohu?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/owasikohu?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/owasikihu">
     <img height="20" src="https://img.shields.io/github/followers/owasikohu?label=follow&logo=github&style=flat" />
