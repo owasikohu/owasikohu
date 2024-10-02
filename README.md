@@ -20,4 +20,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owasikohu&show_icons=true&locale=en" alt="owasikohu" /></p>
 
-
+#To do
+blog
+sd3 2 html
+libwebp on wasm
+fediverse crawler
+NSFPlayer(JS)
