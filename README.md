@@ -33,4 +33,4 @@ libwebp on wasm
 
 NSFPlayer(JS)
 
-termux qemu
+
