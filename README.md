@@ -28,8 +28,7 @@ blog
 
 sd3 2 html
 
-libwebp on wasm
-
+synth-flow
 
 NSFPlayer(JS)
 
