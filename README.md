@@ -5,7 +5,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect
 <p align="left">
 <a href="https://twitter.com/owasikohu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owasikohu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@owasikohu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="owasikohu" height="30" width="40" /></a>
