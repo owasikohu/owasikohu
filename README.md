@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/owasikohu" target="blank"><img src="https://img.shields.io/twitter/follow/owasikohu?logo=twitter&style=for-the-badge" alt="owasikohu" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
