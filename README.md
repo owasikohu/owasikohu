@@ -1,4 +1,1 @@
-# Hello
-I am interested in cybersecurity and competitive programming.
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owasikohu&theme=github_dark&exclude=html,shell)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=owasikohu&theme=github_dark&langs_count=10&hide=html,shell)
