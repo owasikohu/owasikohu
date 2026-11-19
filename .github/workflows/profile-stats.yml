@@ -1,0 +1,33 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: '23 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate SVGs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update-stats.py
+      - name: Publish SVGs
+        run: |
+          git add img/streak.svg img/languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update profile stats'
+          git pull --rebase origin main
+          git push origin HEAD:main
