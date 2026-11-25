@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="154" viewBox="0 0 520 154" role="img" aria-labelledby="title description">
   <title id="title">/streak</title>
-  <desc id="description">890 contributions. Current streak: 0 days. Longest streak: 21 days.</desc>
+  <desc id="description">902 contributions. Current streak: 1 days. Longest streak: 21 days.</desc>
   <style>
     text { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
     .reveal { animation: reveal 800ms ease-out; }
@@ -11,7 +11,7 @@
   <text x="24" y="34" fill="#639dff" font-size="21" font-weight="650">/streak</text>
   <path d="M24 46H496" stroke="#808080"/>
   <path d="M181 66V134M339 66V134" stroke="#555"/>
-  <text x="102" y="101" text-anchor="middle" fill="#fff" font-size="34" font-weight="700" class="reveal">890</text><text x="102" y="126" text-anchor="middle" fill="#ddd" font-size="16">Contributions</text>
-  <text x="260" y="101" text-anchor="middle" fill="#adff2f" font-size="34" font-weight="700" class="reveal">0</text><text x="260" y="126" text-anchor="middle" fill="#ddd" font-size="16">Current streak</text>
+  <text x="102" y="101" text-anchor="middle" fill="#fff" font-size="34" font-weight="700" class="reveal">902</text><text x="102" y="126" text-anchor="middle" fill="#ddd" font-size="16">Contributions</text>
+  <text x="260" y="101" text-anchor="middle" fill="#adff2f" font-size="34" font-weight="700" class="reveal">1</text><text x="260" y="126" text-anchor="middle" fill="#ddd" font-size="16">Current streak</text>
   <text x="418" y="101" text-anchor="middle" fill="#fff" font-size="34" font-weight="700" class="reveal">21</text><text x="418" y="126" text-anchor="middle" fill="#ddd" font-size="16">Longest streak</text>
 </svg>
